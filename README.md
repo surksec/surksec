@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hola, soy [Tu Nombre o Alias]
+💻 Aspirante a **SOC Junior Analyst** | Entusiasta de la **Ciberseguridad**  
+🔍 Especial interés en **JavaScript orientado a seguridad web**, **OWASP Top 10** y **análisis de incidentes**.  
 
-<!--
-**surksec/surksec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🎓 Certificaciones
+- [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) *(completado)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tecnologías y habilidades
+- **Lenguajes:** JavaScript (ES6+), Python básico, Bash
+- **Herramientas de seguridad:** Wireshark, Nmap, Burp Suite, Splunk
+- **Web:** HTML5, CSS3, APIs REST
+- **Buenas prácticas:** OWASP Top 10, hardening de aplicaciones, sanitización de entradas
+
+---
+
+## 📂 Proyectos y Laboratorios
+- 
+- 
+-
+
+---
+
+## 📊 Estadísticas
+![GitHub Stats]
+![Top Langs]
+
+---
+
+📫 **Contacto**: [LinkedIn]
