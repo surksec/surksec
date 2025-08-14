@@ -1,4 +1,4 @@
-# 👋 Hola, soy [Tu Nombre o Alias]
+# 👋 Hola, soy [surksec]
 💻 Aspirante a **SOC Junior Analyst** | Entusiasta de la **Ciberseguridad**  
 🔍 Especial interés en **JavaScript orientado a seguridad web**, **OWASP Top 10** y **análisis de incidentes**.  
 
