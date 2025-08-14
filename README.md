@@ -1,6 +1,6 @@
 # 👋 Hola, soy [surksec]
 💻 Aspirante a **SOC Junior Analyst** | Entusiasta de la **Ciberseguridad**  
-🔍 Especial interés en **JavaScript orientado a seguridad web**, **OWASP Top 10** y **análisis de incidentes**.  
+🔍 Especial interés en ** **.  
 
 ---
 
@@ -10,10 +10,12 @@
 ---
 
 ## 🛠 Tecnologías y habilidades
-- **Lenguajes:** JavaScript (ES6+), Python básico, Bash
-- **Herramientas de seguridad:** Wireshark, Nmap, Burp Suite, Splunk
-- **Web:** HTML5, CSS3, APIs REST
-- **Buenas prácticas:** OWASP Top 10, hardening de aplicaciones, sanitización de entradas
+- **Fundamentos de ciberseguridad:** CIA, gestión de riesgos, OWASP, frameworks NIST  
+- **Redes & seguridad de infraestructura:** TCP/IP, VPNs, firewalls, hardening, IDS/IPS  
+- **Sistemas & bases de datos:** Linux (Bash), autenticación, SQL, administración de archivos  
+- **Vulnerabilidad & amenazas:** Threat modeling, phishing, malware, escaneo de vulnerabilidades  
+- **Detección & respuesta:** Wireshark/tcpdump, SIEM (Splunk, Chronicle), Suricata, incident response  
+- **Automatización:** Python para automatización, scripting, regex y análisis  
 
 ---
 
